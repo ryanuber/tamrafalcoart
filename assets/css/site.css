@@ -34,3 +34,11 @@ td:hover {
 td.art img {
   width: 200px;
 }
+
+td.contact {
+  width: 200px;
+}
+
+td.contact:hover {
+  background-color: #000;
+}
